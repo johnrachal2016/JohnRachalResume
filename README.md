@@ -8,12 +8,13 @@
 
 Technical writer and editor with experience in the payments and semiconductor industries. Impactful professional with expert writing, editing, and proofreading skills; consistently recognized for accuracy. Thrives in supporting the needs of multiple teams with different, often conflicting, priorities, and has a history of effecting change in marketing organizations both large and small. Core competencies include:
 
-Style Guide Development and Implementation / DITA Authoring / AI Prompt Engineering / Content Strategy / Problem Solving / Self-Starter / 
+Style Guide Development and Implementation / DITA Authoring / AI Prompt Engineering / Content Strategy /
+Problem Solving / Self-Starter / 
 Project Management / Creative thinker / Team Player / Technical Concepts
 
 **EXPERIENCE**
 
-**Visa, Inc.,** Foster City, CA 	
+**Visa, Inc.,** Foster City, CA  
 **February 2020 – Present**
 
 **Senior Technical Editor**
@@ -28,7 +29,7 @@ Provided editing writing support for 24 authors across 3 global sites. Individua
 	*   Ongoing style team meeting to establish and maintain technical communication standards.
 -    Served on Gen AI team tasked with developing prompt engineering best practices.
     
-**Maxim Integrated Products, Inc. (acquired Volterra),** San Jose, CA 
+**Maxim Integrated Products, Inc. (acquired Volterra),** San Jose, CA  
 **November 2006 – January 2020**
 
 **Senior Editor, Technical Publications**
