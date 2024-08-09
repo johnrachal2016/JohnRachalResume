@@ -1,6 +1,6 @@
 **JOHN RACHAL**
 
-408-230-5542 / johnrachal2016@gmail.com / linkedin.com/in/johncrachal
+408-230-5542 / johnrachal2016@gmail.com / [linkedin.com/in/johncrachal](http://linkedin.com/in/johncrachal)
 
   
 
