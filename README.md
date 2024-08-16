@@ -55,11 +55,11 @@ Tridion Documentation Manager / Visio
 
 **EDUCATION**
 
-**Technical Writing and Communication Certification,**   
+**Technical Writing and Communication Certification**   
 University of Santa Cruz, Silicon Valley Extension
 
-**Master of Business Administration, MBA, Marketing emphasis,**   
+**Master of Business Administration, MBA, Marketing emphasis**   
 University of Phoenix
 
-**Bachelor of Science, BS, E-Business,**  
+**Bachelor of Science, BS, E-Business**  
 University of Phoenix
