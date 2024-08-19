@@ -9,7 +9,7 @@
 Technical writer and editor with experience in the payments and semiconductor industries. Impactful professional with expert writing, editing, and proofreading skills; consistently recognized for accuracy. Thrives in supporting the needs of multiple teams with different, often conflicting, priorities, and has a history of effecting change in marketing organizations both large and small. Core competencies include:
 
 Style Guide Development and Implementation / DITA Authoring / AI Prompt Engineering / Content Strategy /
-Problem Solving / Self-Starter / Project Management / Creative thinker / Team Player / Technical Concepts
+Problem Solving / Self-Starter / Project Management / Creative Collaborator / Team Player / Technical Concepts
 
 **EXPERIENCE**
 
@@ -46,10 +46,8 @@ Provided technical publication support for 3 business units. Recognized for accu
 
 **TOOLS**
 
-Adobe Creative Suite / Adobe Acrobat Professional Suite / 
-Adobe FrameMaker /  Contour / Confluence / Documentum / Figma / 
-Github / HTML / Illustrator / InDesign / Jira / Logic Pro 9.0 / Markdown / Microsoft Office Suite / OneNote / Open AI ChatGPT / Oxygen XML Editor / Photoshop / Quark Xpress / SharePoint / StackEdit / 
-Tridion Documentation Manager / Visio
+Acrolinx / Adobe Creative Suite / Adobe Acrobat Professional Suite / Adobe FrameMaker /  Contour / Confluence / Documentum / Figma / GitHub / HTML / Illustrator / InDesign / Jira / Logic Pro 9.0 / Markdown / 
+Microsoft Office Suite / OneNote / Open AI ChatGPT / Oxygen XML Editor / Photoshop / Quark Xpress / SharePoint / StackEdit / Tridion Documentation Manager / Visio
 
   
 
