@@ -47,7 +47,8 @@ Provided technical publication support for 3 business units. Recognized for accu
 **TOOLS**
 
 Acrolinx / Adobe Creative Suite / Adobe Acrobat Professional Suite / Adobe FrameMaker /  Contour / Confluence / Documentum / Figma / GitHub / HTML / Illustrator / InDesign / Jira / Logic Pro 9.0 / Markdown / 
-Microsoft Office Suite / OneNote / Open AI ChatGPT / Oxygen XML Editor / Photoshop / Quark Xpress / SharePoint / StackEdit / Tridion Documentation Manager / Visio
+Microsoft Office Suite / OneNote / Open AI ChatGPT / 
+Oxygen XML Editor / Photoshop / Quark Xpress / SharePoint / StackEdit / Tridion Documentation Manager / Visio
 
   
 
