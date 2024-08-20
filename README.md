@@ -18,7 +18,7 @@ Problem Solving /   Self-Starter / Project Management / Creative Collaborator / 
 
 **Senior Technical Editor**
 
-Provided editing writing support for 24 authors across 3 global sites. Individualized coaching of tech writers, based on observation and writing assessment results.
+Provided editing and writing support for 24 authors across 3 global sites. Individualized coaching of tech writers, based on observation and writing assessment results.
 
 -   Redesigned and maintained departmental style guide.
 -   Oversaw Acrolinx administration, maintaining terminology and writing guidance databases.
