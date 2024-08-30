@@ -1,2 +1,0 @@
-# JohnRachalResume
-Hosting my resume.
